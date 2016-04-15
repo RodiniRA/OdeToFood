@@ -70,7 +70,6 @@ C:\Git\MVCApps\OdeToFood\OdeToFood.Tests\bin\Debug\roslyn\VBCSCompiler.exe.confi
 C:\Git\MVCApps\OdeToFood\OdeToFood.Tests\bin\Debug\OdeToFood.Tests.dll.config
 C:\Git\MVCApps\OdeToFood\OdeToFood.Tests\bin\Debug\OdeToFood.Tests.dll
 C:\Git\MVCApps\OdeToFood\OdeToFood.Tests\bin\Debug\OdeToFood.Tests.pdb
-C:\Git\MVCApps\OdeToFood\OdeToFood.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 C:\Git\MVCApps\OdeToFood\OdeToFood.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
 C:\Git\MVCApps\OdeToFood\OdeToFood.Tests\bin\Debug\Newtonsoft.Json.dll
 C:\Git\MVCApps\OdeToFood\OdeToFood.Tests\bin\Debug\OdeToFood.dll
@@ -110,3 +109,8 @@ C:\Git\MVCApps\OdeToFood\OdeToFood.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb
 C:\Git\MVCApps\OdeToFood\OdeToFood.Tests\obj\Debug\OdeToFood.Tests.csprojResolveAssemblyReference.cache
 C:\Git\MVCApps\OdeToFood\OdeToFood.Tests\obj\Debug\OdeToFood.Tests.dll
 C:\Git\MVCApps\OdeToFood\OdeToFood.Tests\obj\Debug\OdeToFood.Tests.pdb
+C:\Git\MVCApps\OdeToFood\OdeToFood.Tests\bin\Debug\PagedList.dll
+C:\Git\MVCApps\OdeToFood\OdeToFood.Tests\bin\Debug\PagedList.Mvc.dll
+C:\Git\MVCApps\OdeToFood\OdeToFood.Tests\bin\Debug\PagedList.xml
+C:\Git\MVCApps\OdeToFood\OdeToFood.Tests\bin\Debug\PagedList.Mvc.xml
+C:\Git\MVCApps\OdeToFood\OdeToFood.Tests\bin\Debug\fr\OdeToFood.resources.dll

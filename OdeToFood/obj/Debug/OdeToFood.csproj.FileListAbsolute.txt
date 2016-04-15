@@ -162,3 +162,14 @@ C:\Git\MVCApps\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.MicrosoftAccount.
 C:\Git\MVCApps\OdeToFood\OdeToFood\obj\Debug\OdeToFood.csprojResolveAssemblyReference.cache
 C:\Git\MVCApps\OdeToFood\OdeToFood\obj\Debug\OdeToFood.dll
 C:\Git\MVCApps\OdeToFood\OdeToFood\obj\Debug\OdeToFood.pdb
+C:\Git\MVCApps\OdeToFood\OdeToFood\obj\Debug\OdeToFood.csproj.GenerateResource.Cache
+C:\Git\MVCApps\OdeToFood\OdeToFood\bin\PagedList.dll
+C:\Git\MVCApps\OdeToFood\OdeToFood\bin\PagedList.Mvc.dll
+C:\Git\MVCApps\OdeToFood\OdeToFood\bin\PagedList.xml
+C:\Git\MVCApps\OdeToFood\OdeToFood\bin\PagedList.Mvc.xml
+C:\Git\MVCApps\OdeToFood\OdeToFood\bin\fr\OdeToFood.resources.dll
+C:\Git\MVCApps\OdeToFood\OdeToFood\obj\Debug\OdeToFood.Views.Home.Resources.resources
+C:\Git\MVCApps\OdeToFood\OdeToFood\obj\Debug\OdeToFood.Views.Home.Resources.fr.resources
+C:\Git\MVCApps\OdeToFood\OdeToFood\obj\Debug\fr\OdeToFood.resources.dll
+C:\Git\MVCApps\OdeToFood\OdeToFood\bin\Elmah.dll
+C:\Git\MVCApps\OdeToFood\OdeToFood\bin\Elmah.Mvc.dll

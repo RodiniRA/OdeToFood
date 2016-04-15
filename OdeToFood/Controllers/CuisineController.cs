@@ -15,7 +15,7 @@ namespace OdeToFood.Controllers
         
         public ActionResult Search(string name = "french")
         {
-            //throw new Exception("Something terrible has happened");
+            throw new Exception("Something terrible has happened");
             var message = Server.HtmlEncode(name);
             return Content(message);
         }
